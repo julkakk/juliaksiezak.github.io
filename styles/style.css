@@ -295,10 +295,10 @@ nav{
     font-size: 50px;
   }
   .section-tekst {
-    font-size: 20px;
+    font-size: 16px;
   }
   .am{
-    font-size: 20px;
+    font-size: 16px;
   }
 
   /* About section */
@@ -306,7 +306,7 @@ nav{
     padding: 120px 0;
 }
 .am::first-letter  {
-    font-size: 40px;
+    font-size: 30px;
     color: var(--ciemziel)
 }
 
